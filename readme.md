@@ -1,6 +1,6 @@
 # Canteen Seller Application
 
-This is a part of the canteen application project. This project will act as seller application. This application retrieve data from the canteen web server ([repository link!](https://github.com/shalahuddinn/CanteenWebServer).
+This is a part of the canteen application project. This project will act as seller application. This application retrieve data from the canteen web server ([repository link](https://github.com/shalahuddinn/CanteenWebServer)).
 
 This project is build using PyQt5 (Python). It can be implemented on Desktop / Raspberry Pi.
 
